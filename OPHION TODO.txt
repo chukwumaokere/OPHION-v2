@@ -74,3 +74,9 @@ moving sidebar
 log out button
 
 Company name not case sensitive so if company ID number matches something, show "a company named: ' ' with ID number ' ' already exists. Merge with that company?"
+
+MISSION STATEMENT
+
+How does OPHION help employers?
+
+How can I find out more about OPHION?
